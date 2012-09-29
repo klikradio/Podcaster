@@ -8,7 +8,7 @@ using Podcaster.Core;
 
 namespace Podcaster.ArduinoController
 {
-    public class ArduinoController : IController
+    public class Arduino : IController
     {
         private SerialPort sp;
         private string COMPort;

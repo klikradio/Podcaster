@@ -67,9 +67,9 @@
       <Project>{C5F58B48-F513-4BA7-9516-4DE1CE2158AA}</Project>
       <Name>Podcaster.Audio</Name>
     </ProjectReference>
-    <ProjectReference Include="..\KLIK.Controller\Podcaster.TCPServer.csproj">
+    <ProjectReference Include="..\KLIK.Controller\Podcaster.HTTPServer.csproj">
       <Project>{4DAB0075-013B-4CF3-900E-259E1B818EC8}</Project>
-      <Name>Podcaster.TCPServer</Name>
+      <Name>Podcaster.HTTPServer</Name>
     </ProjectReference>
     <ProjectReference Include="..\Podcaster.Utilities\Podcaster.Utilities.csproj">
       <Project>{15AFB070-9FB1-45A9-B19D-375B02953A5C}</Project>

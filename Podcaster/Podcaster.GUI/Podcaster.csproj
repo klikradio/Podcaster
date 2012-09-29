@@ -185,10 +185,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Podcaster.ArduinoController\Podcaster.ArduinoController.csproj">
-      <Project>{048B82F1-EEE6-4D00-B655-67BA56622787}</Project>
-      <Name>Podcaster.ArduinoController</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Podcaster.Business\Podcaster.Business.csproj">
       <Project>{1181DA8A-017E-459B-8C8C-0FCC709B7E7D}</Project>
       <Name>Podcaster.Business</Name>

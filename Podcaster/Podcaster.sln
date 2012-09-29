@@ -23,7 +23,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Audio and Business Logic", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Podcaster.Twitter", "Podcaster.Twitter\Podcaster.Twitter.csproj", "{9B2F7BDC-3EF8-4AB0-89EA-3CBB7DD66B4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Podcaster.TCPServer", "KLIK.Controller\Podcaster.TCPServer.csproj", "{4DAB0075-013B-4CF3-900E-259E1B818EC8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Podcaster.HTTPServer", "KLIK.Controller\Podcaster.HTTPServer.csproj", "{4DAB0075-013B-4CF3-900E-259E1B818EC8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Podcaster.Facebook", "Podcaster.Facebook\Podcaster.Facebook.csproj", "{A198F03F-CFE3-4824-8712-FD43356B7F20}"
 EndProject
@@ -31,11 +31,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Controllers", "Controllers"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Plug-ins", "Plug-ins", "{DAB352E5-F184-449E-813F-0411357F6B90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Podcaster.iTunesController", "Podcaster.iTunesController\Podcaster.iTunesController.csproj", "{4292F3D6-0F05-4800-B390-90BC0AC17FA3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Podcaster.iTunes", "Podcaster.iTunesController\Podcaster.iTunes.csproj", "{4292F3D6-0F05-4800-B390-90BC0AC17FA3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Podcaster.SQLite", "Podcaster.SQLite\Podcaster.SQLite.csproj", "{D8AB4627-09C2-42FD-BF3F-C5FB830B8D23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Podcaster.ArduinoController", "Podcaster.ArduinoController\Podcaster.ArduinoController.csproj", "{048B82F1-EEE6-4D00-B655-67BA56622787}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Podcaster.Arduino", "Podcaster.Arduino\Podcaster.Arduino.csproj", "{048B82F1-EEE6-4D00-B655-67BA56622787}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
